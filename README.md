@@ -20,6 +20,7 @@ The bot prevents hallucinations, logs **evaluations** (tone, factuality, halluci
 ---
 
 ## 📂 Project Structure
+```bash
 songs-rag/
 ├── app.py              # FastAPI app (chat + favorites APIs)
 ├── agent.py            # Intent parsing, execution, answer generation
@@ -32,7 +33,7 @@ songs-rag/
 ├── requirements.txt    # Dependencies
 └── README.md           # Project docs
 
----
+---```
 
 ## ⚙️ Setup
 
