@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pandas
+pinecone
+pydantic
+requests
+langfuse
+python-dotenv
+dotenv
+openai
+streamlit
+sentence-transformers
+rapidfuzz
+cohere
+llama-index-core
+llama-index-embeddings-cohere
