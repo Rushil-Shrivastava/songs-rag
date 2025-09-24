@@ -33,7 +33,7 @@ songs-rag/
 ├── requirements.txt    # Dependencies
 └── README.md           # Project docs
 
----```
+```
 
 ## ⚙️ Setup
 
